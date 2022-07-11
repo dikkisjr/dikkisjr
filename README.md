@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dikkisjr
-- 👀 I’m interested in ... learning as much as I can
-- 🌱 I’m currently learning ... html, css, javascript, cobol
+- 👀 I’m interested in ... learning as much as I can because I want to change careers from retail into the world of coding.
+- 🌱 I’m currently learning ... html, css, and javascript
 - 💞️ I’m looking to collaborate on ... I dont know yet
 - 📫 How to reach me ...
 
